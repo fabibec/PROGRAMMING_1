@@ -1,3 +1,0 @@
-C:/Users/becke/Desktop/PG1/Histogramm/cmake-build-debug/CMakeFiles/Histogramm.dir
-C:/Users/becke/Desktop/PG1/Histogramm/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/becke/Desktop/PG1/Histogramm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
