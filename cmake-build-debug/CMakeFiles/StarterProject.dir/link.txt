@@ -1,0 +1,3 @@
+"D:\Program Files\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\StarterProject.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\StarterProject.dir/objects.a @CMakeFiles\StarterProject.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\StarterProject.dir/objects.a -Wl,--no-whole-archive -o StarterProject.exe -Wl,--out-implib,libStarterProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\StarterProject.dir\linklibs.rsp

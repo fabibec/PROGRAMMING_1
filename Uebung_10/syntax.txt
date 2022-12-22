@@ -1,0 +1,4 @@
+The last syntax is correct.
+The first one is missing a semicolon at the end of defining the double variables
+The second one is missing a semicolon at the end of the second double variable
+The third one has a semicolon too much at the end of the last colon

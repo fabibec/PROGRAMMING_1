@@ -1,0 +1,8 @@
+1. Aufruf functionOne():
+    globales x und y werden verwendet, da lokales x und y nur sichtbar im main bzw. neseted block
+1. Aufruf printf main:
+    lokales x und globles y werden verwendet da, lokale variablen globalen bevorzugt werden. Da das lokale y in einem nested Blockist, ist dieses noch nicht sichtbar
+2. Aufruf functionOne():
+    globales x und y werden verwendet, da lokales x und y nur sichtbar im main bzw. neseted block
+2. Aufruf printf main:
+    lokales x und y werden verwendet, da nun beide sichtbar sind

@@ -1,0 +1,3 @@
+C:/Users/becke/Desktop/PG1/spl-projects/cmake-build-debug/CMakeFiles/StarterProject.dir
+C:/Users/becke/Desktop/PG1/spl-projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/becke/Desktop/PG1/spl-projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir

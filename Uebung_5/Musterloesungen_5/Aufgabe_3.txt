@@ -1,0 +1,12 @@
+Das Programm liest eine Nummer vom User in die Variable "number" ein und
+gibt diese anschliessend wieder aus.
+
+stdio.h ist ein C-Standardbibliothek-Header, der grundlegende Ein- und
+Ausgabefunktionen deklariert. simpio.h baut darauf auf und deklariert
+noch einige einfacher zu bedienende Funktionen wie getInteger() etc.
+
+scanf() wird Zeiger (also die Speicheradressen) zu den zu füllenden Variablen
+übergeben. An diese Adressen schreibt scanf() dann die eingelesenen
+Werte.
+
+

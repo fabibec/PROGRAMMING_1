@@ -1,0 +1,9 @@
+For the outer block only i =32 is visible, that's why both times 32 is printed.
+For the inner block the "local" i has a higher priority, because of that i only used in the nested block.
+
+Within the outer block : i=32
+Within the inner block :
+i=0, j=3
+i=1, j=2
+i=2, j=1
+i=3, j=0

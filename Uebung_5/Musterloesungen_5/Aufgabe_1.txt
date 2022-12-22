@@ -1,0 +1,14 @@
+1. Beschriftung:
+
+1000 p1
+1004 p2
+1008 p3
+
+2000 c
+2001 d
+
+2. Ausgabe ist: S
+
+3. Ausgabe ist: T
+
+4. Ausgabe ist: S
